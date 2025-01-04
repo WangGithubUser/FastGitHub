@@ -26,9 +26,10 @@
 		<PackageReference Include="LiveCharts.Wpf" Version="0.9.7">
 			<PrivateAssets>all</PrivateAssets>
 		</PackageReference>
-		<PackageReference Include="Newtonsoft.Json" Version="13.0.1">
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3">
 			<PrivateAssets>all</PrivateAssets>
 		</PackageReference>
+		<PackageReference Include="Serilog.Sinks.Console" Version="5.0.1" />
 	</ItemGroup>
 
 </Project>
